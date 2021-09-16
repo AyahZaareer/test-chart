@@ -8,7 +8,7 @@ export class Chart extends Component {
         return (
             <div >
                 <div>
-                <h5 style={{marginLeft:'1rem', marginBottom:'1.2rem', marginTop:'.5rem'}}>   Vehicle status<a href='#' style={{marginLeft:'5rem', textDecoration:'none'}}>details ></a></h5></div>
+                <h5 style={{marginLeft:'1rem', marginBottom:'1.2rem', marginTop:'.5rem'}}>   Vehicle status<a href='#' style={{marginLeft:'5rem', textDecoration:'none'}}>details </a></h5></div>
                 <ListGroup as="ul">
                     <ListGroupItem as="li" active>
                         Active
